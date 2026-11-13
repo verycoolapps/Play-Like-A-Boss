@@ -1,18 +1,7 @@
-# ╔══════════════════════════════════════════════════════════════╗
-# ║                                                              ║
-# ║   ██████╗  ██╗      █████╗ ██╗     ███████╗                  ║
-# ║   ██╔══██╗ ██║     ██╔══██╗██║     ██╔════╝                  ║
-# ║   ██████╔╝ ██║     ███████║██║     ███████╗                  ║
-# ║   ██╔═══╝  ██║     ██╔══██║██║     ╚════██║                  ║
-# ║   ██║      ███████╗██║  ██║███████╗███████║                  ║
-# ║   ╚═╝      ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝                  ║
-# ║                                                              ║
-# ║      P L A Y   L I K E   A   B O S S                          ║
-# ║                                                              ║
-# ║   The autonomous game intelligence for every engine.          ║
-# ║   Play it. Audit it. Repair it. Ship it.                      ║
-# ║                                                              ║
-# ╚══════════════════════════════════════════════════════════════╝
+# 🎮 PLAY LIKE A BOSS
+
+**The autonomous game intelligence for every engine.**
+*Play it. Audit it. Repair it. Ship it.*
 
 ![License: Proprietary](https://img.shields.io/badge/license-Proprietary-red)
 ![Engines](https://img.shields.io/badge/engines-web%20%C2%B7%20Unity%20%C2%B7%20Unreal%20%C2%B7%20Godot%20%C2%B7%20RPG%20Maker%20%C2%B7%20any-blueviolet)
@@ -378,23 +367,10 @@ competing skill or product is not.
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██████╗  ██╗      █████╗ ██╗     ███████╗                  ║
-║   ██╔══██╗ ██║     ██╔══██╗██║     ██╔════╝                  ║
-║   ██████╔╝ ██║     ███████║██║     ███████╗                  ║
-║   ██╔═══╝  ██║     ██╔══██║██║     ╚════██║                  ║
-║   ██║      ███████╗██║  ██║███████╗███████║                  ║
-║   ╚═╝      ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝                  ║
-║                                                              ║
-║      P L A Y   L I K E   A   B O S S                          ║
-║                                                              ║
-║   Kecerdasan game otonom untuk semua engine.                 ║
-║   Mainkan. Audit. Perbaiki. Rilis.                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# 🎮 PLAY LIKE A BOSS
+
+**Kecerdasan game otonom untuk semua engine.**
+*Mainkan. Audit. Perbaiki. Rilis.*
 
 ## Mengapa ini ada
 
