@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
+
+# PLAB runtime output — generated audit artifacts, session captures,
+# findings, verdicts. These are produced per-run and should not be
+# committed to the skill repository.
+.plab/
+.plab-*/
+artifacts/
+sessions/
+reports/
+*.plab-finding
+*.plab-report
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+Desktop.ini

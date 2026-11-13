@@ -1,0 +1,134 @@
+PLAY LIKE A BOSS — PROPRIETARY LICENSE
+======================================
+
+Copyright (c) 2026 PT. Agra Karya Digital (VeryCoolApps)
+All Rights Reserved.
+
+NOTICE: This file describes a PROPRIETARY license. It is NOT an open-source
+license. No rights are granted under any open-source license (MIT, GPL,
+Apache, or otherwise). Do not redistribute, sublicense, or republish the
+contents of this software except as expressly permitted below.
+
+
+1. DEFINITIONS
+--------------
+
+"Software" means the PLAY LIKE A BOSS skill package, including but not
+limited to: SKILL.md, all module files under core/, adapters/, auditing/,
+repair/, testing/, and templates/, all documentation files, and all
+associated assets and examples.
+
+"Derivative Work" means any work based upon, derived from, or that
+incorporates the Software or any substantial portion of it, including
+translations, adaptations, modifications, or merged combinations.
+
+"You" means the individual or entity exercising rights under this License.
+
+
+2. GRANT OF RIGHTS
+------------------
+
+Subject to the terms and conditions of this License, the Copyright Holder
+grants You a limited, non-exclusive, non-transferable, royalty-free right
+to:
+
+  a) Use, execute, and study the Software for personal purposes;
+
+  b) Use, execute, study, and adapt the Software for internal business
+     purposes within your organization, provided the Software is not
+     redistributed outside that organization;
+
+  c) Create Derivative Works for your own internal use, provided such
+     Derivative Works are not distributed or made available to third
+     parties.
+
+No other rights are granted. All rights not expressly granted are reserved.
+
+
+3. RESTRICTIONS
+---------------
+
+You may NOT, without prior written permission from the Copyright Holder:
+
+  a) Redistribute, publish, sublicense, sell, rent, lease, or otherwise
+     transfer the Software or any substantial portion of it, in source or
+     compiled form;
+
+  b) Redistribute the SKILL.md file, any module files, or any substantial
+     portion of the Software's content as a competing skill, product,
+     service, or tool;
+
+  c) Republish, distribute, or make available to third parties any
+     Derivative Work that contains or reproduces the Software's content;
+
+  d) Remove, alter, or obscure any copyright, trademark, or proprietary
+     notices contained in the Software;
+
+  e) Use the Copyright Holder's name, trademarks, or branding to endorse or
+     promote products or services derived from the Software without prior
+     written consent.
+
+
+4. OWNERSHIP
+------------
+
+The Copyright Holder retains all right, title, and interest in and to the
+Software, including all intellectual property rights therein. This License
+does not transfer ownership of the Software to You.
+
+
+5. NO WARRANTY
+--------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE COPYRIGHT HOLDER
+DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE OR THAT ITS OPERATION
+WILL BE UNINTERRUPTED OR SECURE. YOU ASSUME ALL RISK ARISING FROM YOUR USE
+OF THE SOFTWARE.
+
+
+6. LIMITATION OF LIABILITY
+--------------------------
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT
+LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA,
+OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+7. TERM AND TERMINATION
+-----------------------
+
+This License is effective until terminated. It terminates automatically if
+You breach any of its terms. Upon termination, You must destroy all copies
+of the Software in your possession or control. Sections 3, 4, 5, 6, and 8
+survive termination.
+
+
+8. GOVERNING LAW
+----------------
+
+This License shall be governed by and construed in accordance with the laws
+of the Republic of Indonesia, without regard to its conflict of law
+provisions. Any dispute arising under this License shall be subject to the
+exclusive jurisdiction of the competent courts of Indonesia.
+
+
+9. ENTIRE AGREEMENT
+-------------------
+
+This License constitutes the entire agreement between You and the Copyright
+Holder with respect to the Software and supersedes all prior or
+contemporaneous understandings, agreements, or representations, whether
+written or oral.
+
+
+For licensing inquiries, derivative work permissions, or commercial use:
+
+  PT. Agra Karya Digital (VeryCoolApps)
+  Indonesia
+  https://verycoolapps.com
